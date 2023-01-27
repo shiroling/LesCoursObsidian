@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"2be1b2f3ba7a78b1","x":-127,"y":-226,"width":113,"height":60,"type":"text","text":"Accueil"},
+		{"id":"27151a82cf18ed7b","x":-89,"y":110,"width":250,"height":60,"type":"text","text":"BDEntity\n"},
+		{"id":"6e0dd1d1194c2528","x":-89,"y":378,"width":144,"height":60,"type":"text","text":"BDSelect"},
+		{"id":"21eb8ae8c97c4bed","x":-89,"y":462,"width":146,"height":57,"type":"text","text":"BDInsert"},
+		{"id":"f4ae58b0175a1cb2","x":-87,"y":541,"width":144,"height":60,"type":"text","text":"BDPredicat"},
+		{"id":"ae4a0f40e56a185b","x":-87,"y":622,"width":146,"height":62,"type":"text","text":"BDInit"},
+		{"id":"e584f36493ffbc62","x":291,"y":-35,"width":108,"height":60,"type":"text","text":"Jeu"},
+		{"id":"2b3696121dc6b50a","x":295,"y":25,"width":104,"height":60,"type":"text","text":"Tournoi"},
+		{"id":"f888daa5bee6deb1","x":295,"y":85,"width":104,"height":60,"type":"text","text":"Ecurie"},
+		{"id":"6560b57b7e1fd19c","x":295,"y":145,"width":104,"height":60,"type":"text","text":"Equipe"},
+		{"id":"ee5191d0f0284e3d","x":295,"y":205,"width":104,"height":60,"type":"text","text":"Joueur"},
+		{"id":"5a2c344643aaecf3","x":295,"y":265,"width":104,"height":60,"type":"text","text":"poule"}
+	],
+	"edges":[
+		{"id":"c5c2fc67ba498d2d","fromNode":"27151a82cf18ed7b","fromSide":"right","toNode":"ee5191d0f0284e3d","toSide":"left"},
+		{"id":"98290a6741ece973","fromNode":"27151a82cf18ed7b","fromSide":"right","toNode":"6560b57b7e1fd19c","toSide":"left"},
+		{"id":"a4ed394bbd9ed993","fromNode":"27151a82cf18ed7b","fromSide":"right","toNode":"f888daa5bee6deb1","toSide":"left"},
+		{"id":"fdfe12da585f3b92","fromNode":"27151a82cf18ed7b","fromSide":"right","toNode":"2b3696121dc6b50a","toSide":"left"},
+		{"id":"d88d4ed14c727422","fromNode":"27151a82cf18ed7b","fromSide":"right","toNode":"5a2c344643aaecf3","toSide":"left"},
+		{"id":"ccdc09719daa71d4","fromNode":"27151a82cf18ed7b","fromSide":"right","toNode":"e584f36493ffbc62","toSide":"left"}
+	]
+}

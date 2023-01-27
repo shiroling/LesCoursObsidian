@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"cef3e0014f44b1a9","x":-614,"y":-945,"width":424,"height":295,"type":"text","text":"# Météo\n### Meilleur moment :\n- fin printemps début été\n- fin été début automne\n>A noter qu'en milieux de l'été, la chaleure peut devenir un probléme et que les orages sont plus fréquents en automne\n\n"},
+		{"id":"f27bcc7820026bda","x":-281,"y":-466,"width":797,"height":531,"type":"file","file":"maxresdefault-2810175842.jpg"},
+		{"id":"83892b1e6cdcd9f4","x":-873,"y":-309,"width":353,"height":211,"type":"text","text":"# Statisitques\n\nDistance  : 866 km\nTemps de parcourt : 52 jours\ndénivelé total : 48 000m\nDépart : [Banyuls-sur-Mer](https://www.wikiwand.com/en/Banyuls-sur-Mer)\nArrivée : [Hendaye](https://www.wikiwand.com/en/Hendaye \"Hendaye\")"},
+		{"id":"c98cad590aa29b6d","x":-873,"y":17,"width":250,"height":97,"type":"text","text":"# Liens utiles\n[GR10](http://www.gr10.fr)"},
+		{"id":"c1c439fe3e46df07","x":-281,"y":253,"width":698,"height":173,"color":"1","type":"text","text":"# Budget\n\n\n- Coût estimé pour 50 jours \n- Le coût de l'équipement et su matériel de bivouac est à revoir à la baisse étant donné que j'ai déjà du matos"},
+		{"id":"694badd232207d1a","x":626,"y":66,"width":320,"height":137,"color":"3","type":"text","text":"# Etapes\nSegments de GR à faire en fonction des lieux que je peux fréquenter"},
+		{"id":"25289649d245a8b2","x":786,"y":366,"width":407,"height":176,"color":"3","type":"text","text":"## Cautret\nVille d'altitude où le sgrand parents de Chloée on un appartement, en jouant bien je peux surement y faire une étape, de pus ça peut étre cool pour passer un moment avec les potes."},
+		{"id":"b31d92f9e63625db","x":786,"y":-595,"width":737,"height":286,"type":"file","file":"cartegr10-3372214836.jpg"},
+		{"id":"d5b51fee0a352e7d","x":-873,"y":366,"width":471,"height":301,"color":"1","type":"text","text":"|   | Bivouac | Refuges |\n|-----------|----------|----------|\n|équipement de base | 830 | 830 |\n|matériel de bivouac   | 410 |  -  |\n|50 demi-pensions      | - | 2500 |\n|50 paniers repas à 10 euros / jour |  -  | 500 |\n|forfait nourriture (15 euros / jour) | 750 |  -  |\n|divers dépenses (5 euros/ jours)   |  250 | 250 |\n| TOTAL | **2240** |**4030** |"},
+		{"id":"ac14f54e1453c4e4","x":1114,"y":135,"width":409,"height":166,"color":"3","type":"text","text":"## Hendaye\nC'est à coté de chez Marine peut étre puisje prévoir durant de vacances d'y aller et de tester par là. "},
+		{"id":"84f246bcbbe14dcc","x":-1872,"y":-869,"width":688,"height":548,"type":"link","url":"https://www.wikiwand.com/en/GR_10#Departments_crossed"},
+		{"id":"b14f31ee5276f4f3","x":-1895,"y":454,"width":711,"height":403,"type":"link","url":"https://toulouse3-my.sharepoint.com/:x:/g/personal/quentin_couturier_etu_iut-tlse3_fr/EQ8XJ9VL261Ah5-NxXAmqfYB9IFZcqWkIoft7HgspGRFJQ?e=W37bCk"}
+	],
+	"edges":[
+		{"id":"61a37f693dd6f74c","fromNode":"694badd232207d1a","fromSide":"bottom","toNode":"25289649d245a8b2","toSide":"top"},
+		{"id":"d1d7520d5a5f3fd4","fromNode":"694badd232207d1a","fromSide":"right","toNode":"ac14f54e1453c4e4","toSide":"left"},
+		{"id":"504dd2b24c08e882","fromNode":"d5b51fee0a352e7d","fromSide":"bottom","toNode":"b14f31ee5276f4f3","toSide":"left"},
+		{"id":"bb9d45a88b3f5867","fromNode":"83892b1e6cdcd9f4","fromSide":"left","toNode":"84f246bcbbe14dcc","toSide":"right"},
+		{"id":"2313b5a73570d5ca","fromNode":"f27bcc7820026bda","fromSide":"top","toNode":"cef3e0014f44b1a9","toSide":"bottom"},
+		{"id":"53a0be56844c2669","fromNode":"f27bcc7820026bda","fromSide":"left","toNode":"83892b1e6cdcd9f4","toSide":"right"},
+		{"id":"602637809dce3500","fromNode":"f27bcc7820026bda","fromSide":"left","toNode":"c98cad590aa29b6d","toSide":"right"},
+		{"id":"20b17dc86cae4764","fromNode":"f27bcc7820026bda","fromSide":"bottom","toNode":"c1c439fe3e46df07","toSide":"top"},
+		{"id":"822873c76622370e","fromNode":"f27bcc7820026bda","fromSide":"right","toNode":"694badd232207d1a","toSide":"left"},
+		{"id":"a0c4ce1db729b591","fromNode":"f27bcc7820026bda","fromSide":"right","toNode":"b31d92f9e63625db","toSide":"left"},
+		{"id":"1c8b8b685e79f14a","fromNode":"c1c439fe3e46df07","fromSide":"left","toNode":"d5b51fee0a352e7d","toSide":"right"}
+	]
+}
